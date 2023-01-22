@@ -1,0 +1,15 @@
+F:\света\HomeWork1\Home1\bin\Debug\net6.0\Home1.exe
+F:\света\HomeWork1\Home1\bin\Debug\net6.0\Home1.deps.json
+F:\света\HomeWork1\Home1\bin\Debug\net6.0\Home1.runtimeconfig.json
+F:\света\HomeWork1\Home1\bin\Debug\net6.0\Home1.dll
+F:\света\HomeWork1\Home1\bin\Debug\net6.0\Home1.pdb
+F:\света\HomeWork1\Home1\obj\Debug\net6.0\Home1.csproj.AssemblyReference.cache
+F:\света\HomeWork1\Home1\obj\Debug\net6.0\Home1.GeneratedMSBuildEditorConfig.editorconfig
+F:\света\HomeWork1\Home1\obj\Debug\net6.0\Home1.AssemblyInfoInputs.cache
+F:\света\HomeWork1\Home1\obj\Debug\net6.0\Home1.AssemblyInfo.cs
+F:\света\HomeWork1\Home1\obj\Debug\net6.0\Home1.csproj.CoreCompileInputs.cache
+F:\света\HomeWork1\Home1\obj\Debug\net6.0\Home1.dll
+F:\света\HomeWork1\Home1\obj\Debug\net6.0\refint\Home1.dll
+F:\света\HomeWork1\Home1\obj\Debug\net6.0\Home1.pdb
+F:\света\HomeWork1\Home1\obj\Debug\net6.0\Home1.genruntimeconfig.cache
+F:\света\HomeWork1\Home1\obj\Debug\net6.0\ref\Home1.dll
